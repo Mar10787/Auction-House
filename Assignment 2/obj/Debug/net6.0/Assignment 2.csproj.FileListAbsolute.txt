@@ -1,0 +1,45 @@
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.exe
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.deps.json
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.pdb
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\refint\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.pdb
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\Uni\Y1 S2\CAB201\Assignment\Assignment 2\Assignment 2\obj\Debug\net6.0\ref\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\refint\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.pdb
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.exe
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.deps.json
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.dll
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.pdb
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\Uni\Sem 2\Assignment 2\Assignment 2\obj\Debug\net6.0\ref\Assignment 2.dll
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.exe
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.deps.json
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.runtimeconfig.json
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.dll
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment 2.pdb
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.dll
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\refint\Assignment 2.dll
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.pdb
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment 2.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Desktop\Assignment 2\Assignment 2\obj\Debug\net6.0\ref\Assignment 2.dll
